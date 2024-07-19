@@ -38,7 +38,6 @@ const tweetsArray = [
 function App() {
   return (
     <div className="App">
-    /*<ProfileImage tweet={tweetsArray[0]}/>*/
       <Tweet tweet={tweetsArray[0]} />
     </div>
   );
